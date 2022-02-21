@@ -2,7 +2,7 @@
 
 int main(){
 
-int long i =  2 ;
+long long  i =  2 ;
 while (1==1){
 
 i  = 2*i ;
